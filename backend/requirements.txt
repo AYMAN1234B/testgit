@@ -1,0 +1,7 @@
+fastapi
+openai
+python-multipart
+pydantic
+uvicorn
+firebase-admin
+stripe
